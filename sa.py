@@ -63,7 +63,6 @@ def reset(resetType):
 pin = 27971
 
 
-
 tester_present()
 change_diagnostic_session(0x03)
 tester_present()

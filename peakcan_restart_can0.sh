@@ -1,3 +1,7 @@
+#!/bin/bash
+#
+#
+set -o errexit
 
 perror()
 {
